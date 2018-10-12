@@ -45,7 +45,7 @@ security:
       prefer-token-info: false
 file:
   local:
-    path: d:/localFile
+    path: C:/Users/C5251235/Desktop/localFile
     prefix: /statics
     urlPrefix: http://api.gateway.com:8080/api-f${file.local.prefix}
   aliyun:

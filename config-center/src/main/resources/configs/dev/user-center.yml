@@ -22,7 +22,7 @@ spring:
   redis:
     host: local.redis.com
     port: 6379
-    password:
+    password: oWelcome1
     timeout: 10s
     lettuce:
       pool:
